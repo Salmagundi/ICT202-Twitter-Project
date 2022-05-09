@@ -24,6 +24,8 @@ Exploratory Analysis (10%): This is probably a more complicated bit, but is not 
   Above link may be useful 
   sklearn.feature_extraction.text.TfidfVectorizer
   word2vec is another recommended solution 
+  https://radimrehurek.com/gensim/ - gensim
+  https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547 LSI topic modelling 
 Feature Extraction (20%): Clearly a more important bit. This should be the unsupervised learning I think, and will be creating the bag of words, discovering topics, and deonstrating findings. 
 Model building (20%): Feels like the above, but instead of demonstrating results, this is probably the driver behind the scenes that makes it work. The python files etc. 
 Performance Eval (10%): Discuss the sparce nature of BoW and the improvements that n-grams provide maybe? Who knows. 
