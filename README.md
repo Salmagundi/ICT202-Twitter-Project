@@ -30,3 +30,8 @@ Feature Extraction (20%): Clearly a more important bit. This should be the unsup
 Model building (20%): Feels like the above, but instead of demonstrating results, this is probably the driver behind the scenes that makes it work. The python files etc. 
 Performance Eval (10%): Discuss the sparce nature of BoW and the improvements that n-grams provide maybe? Who knows. 
 Report structure etc (10%): This will naturally occur. 
+
+
+
+https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+another lda example
