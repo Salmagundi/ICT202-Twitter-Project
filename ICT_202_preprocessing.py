@@ -51,7 +51,7 @@ def popular_word_culler(doc_list): #doc_list is a list of strings
     new_tweets = []
     for tweet in doc_list:
         for word in unwanted_words:
-            tweet = tweet.replace(word,'')
+            tweet = tweet.replace(f' {word} ',' ')
         new_tweets.append(tweet)
     new_tweets_list = [[word for word in tweet.split()] for tweet in new_tweets]
     return new_tweets, new_tweets_list
