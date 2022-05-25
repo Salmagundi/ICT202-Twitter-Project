@@ -5,3 +5,5 @@ Main outcomes are evaluatition of different methods of Topic Modelling (Unsuperv
 Word cloud tracking 100 most popular words for each discovered topic
 Data is to be correctly preprocessed, involving stemming and removing stop words. 
 Evaluation of different techniques of feature extraction and modelling. 
+
+Useful files are the json files, the file in the kmeans folder,  gensim-lda-clean, and maybe the preprocessing file
